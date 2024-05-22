@@ -1,5 +1,7 @@
 # matrixbox
 
+<video src="matrixbox.MOV" width="320" height="240" controls></video>
+
 ## How to edit the code
 * Connect to the board using a USB-C data cable
 * Open Finder and look for `CIRCUITPY` external storage.
