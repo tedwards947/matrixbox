@@ -1,6 +1,14 @@
 # matrixbox
 
-<video src="matrixbox.MOV" width="320" height="240" controls></video>
+
+
+https://github.com/tedwards947/matrixbox/assets/7747404/8bbe70ba-c29b-47f5-9afa-6fba602c5440
+
+
+
+
+
+
 
 ## How to edit the code
 * Connect to the board using a USB-C data cable
@@ -27,3 +35,9 @@
 
 ## Assembly instructions
 * I'll update this when someone wants to make one. Until then, buy the parts and try!
+
+
+
+Inside View
+
+<img src="inside.jpg" width=300/>
