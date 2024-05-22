@@ -1,5 +1,6 @@
 # matrixbox
 
+## How to edit the code
 * Connect to the board using a USB-C data cable
 * Open Finder and look for `CIRCUITPY` external storage.
 * code.py is the file that runs on startup
